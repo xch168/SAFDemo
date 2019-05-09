@@ -1,8 +1,10 @@
-package com.youpai.safdemo;
+package com.youpai.safdemo.ui;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import com.youpai.safdemo.R;
 
 public class MainActivity extends AppCompatActivity
 {

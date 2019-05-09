@@ -1,9 +1,11 @@
-package com.youpai.safdemo;
+package com.youpai.safdemo.ui;
 
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+
+import com.youpai.safdemo.R;
 
 public class PicListActivity extends AppCompatActivity
 {
